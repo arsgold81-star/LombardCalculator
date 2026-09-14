@@ -18,5 +18,6 @@
         </activity>
 
     </application>
-
+android:theme="@android:style/Theme.Material.Light.NoActionBar"
 </manifest>
+android:theme="@android:style/Theme.Material.Light.NoActionBar"
